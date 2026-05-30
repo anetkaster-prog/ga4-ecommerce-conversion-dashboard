@@ -31,5 +31,8 @@ The dashboard tracks user progression across the following 7 critical stages of 
 - **Post-Holiday Slump**: A sharp drop in conversion rate was observed starting from **late December (0.68% CR)** through **early January (0.55% CR)**. While traffic volume remained relatively stable (~30K sessions), purchasing intent decreased significantly, which is a common post-holiday retail trend.
 - **Funnel Bottleneck**: The largest user drop-off occurs right after the **Product View (`view_item`)** stage. Optimizing the product page UX and implementing retargeting campaigns for cart abandoners represent the highest growth opportunities for the marketing team.
 
-## 📷 Dashboard Preview
-![Dashboard View](images/dashboard_preview.png)
+## 📸 Dashboard Preview
+
+![Dashboard View 1](dashboard_preview.png)
+
+![Dashboard View 2](dashboard_preview2.png)
