@@ -37,4 +37,4 @@ The dashboard tracks user progression across the following 7 critical stages of 
 
 ![Dashboard View 2](dashboard_preview.png)
 
-![Dashboard View 2](dashboard_preview2.png)
+![Dashboard View 3](dashboard_preview2.png)
